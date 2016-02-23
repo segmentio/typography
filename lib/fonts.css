@@ -1,0 +1,136 @@
+
+/**
+ * Freight Sans
+ */
+
+@font-face {
+  font-family: 'Freight Sans';
+  src: url('./fonts/freight-sans-light.woff2') format('woff2'),
+       url('./fonts/freight-sans-light.woff') format('woff');
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Freight Sans';
+  src: url('./fonts/freight-sans-light-italic.woff2') format('woff2'),
+       url('./fonts/freight-sans-light-italic.woff') format('woff');
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Freight Sans Small Caps';
+  src: url('./fonts/freight-sans-light-small-caps.woff2') format('woff2'),
+       url('./fonts/freight-sans-light-small-caps.woff') format('woff');
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Freight Sans';
+  src: url('./fonts/freight-sans-book.woff2') format('woff2'),
+       url('./fonts/freight-sans-book.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Freight Sans';
+  src: url('./fonts/freight-sans-book-italic.woff2') format('woff2'),
+       url('./fonts/freight-sans-book-italic.woff') format('woff');
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Freight Sans Small Caps';
+  src: url('./fonts/freight-sans-book-small-caps.woff2') format('woff2'),
+       url('./fonts/freight-sans-book-small-caps.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Freight Sans';
+  src: url('./fonts/freight-sans-medium.woff2') format('woff2'),
+       url('./fonts/freight-sans-medium.woff') format('woff');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Freight Sans';
+  src: url('./fonts/freight-sans-medium-italic.woff2') format('woff2'),
+       url('./fonts/freight-sans-medium-italic.woff') format('woff');
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Freight Sans Small Caps';
+  src: url('./fonts/freight-sans-medium-small-caps.woff2') format('woff2'),
+       url('./fonts/freight-sans-medium-small-caps.woff') format('woff');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Freight Sans';
+  src: url('./fonts/freight-sans-bold.woff2') format('woff2'),
+       url('./fonts/freight-sans-bold.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Freight Sans';
+  src: url('./fonts/freight-sans-bold-italic.woff2') format('woff2'),
+       url('./fonts/freight-sans-bold-italic.woff') format('woff');
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Freight Sans Small Caps';
+  src: url('./fonts/freight-sans-bold-small-caps.woff2') format('woff2'),
+       url('./fonts/freight-sans-bold-small-caps.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Freight Sans';
+  src: url('./fonts/freight-sans-black.woff2') format('woff2'),
+       url('./fonts/freight-sans-black.woff') format('woff');
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Freight Sans';
+  src: url('./fonts/freight-sans-black-italic.woff2') format('woff2'),
+       url('./fonts/freight-sans-black-italic.woff') format('woff');
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Freight Sans Small Caps';
+  src: url('./fonts/freight-sans-black-small-caps.woff2') format('woff2'),
+       url('./fonts/freight-sans-black-small-caps.woff') format('woff');
+  font-style: normal;
+  font-weight: 900;
+}
+
+/**
+ * Droid Sans Mono.
+ */
+
+@font-face {
+  font-family: 'Droid Sans Mono';
+  src: url('./fonts/droid-sans-mono.woff2') format('woff2'),
+       url('./fonts/droid-sans-mono.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+}
