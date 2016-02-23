@@ -4,7 +4,8 @@
  */
 
 h1 {
-  font-family: 'freight-sans-pro';
+  font-family: 'Freight Sans';
+  font-style: normal;
   line-height: 50px;
   font-weight: 300;
   font-size: 45px;
@@ -12,7 +13,8 @@ h1 {
 }
 
 h2 {
-  font-family: 'freight-sans-pro';
+  font-family: 'Freight Sans';
+  font-style: normal;
   line-height: 40px;
   font-weight: 300;
   font-size: 36px;
@@ -20,7 +22,8 @@ h2 {
 }
 
 h3 {
-  font-family: 'freight-sans-pro';
+  font-family: 'Freight Sans';
+  font-style: normal;
   line-height: 27px;
   font-weight: 300;
   font-size: 27px;
@@ -32,7 +35,8 @@ h3[data-color="gray"] {
 }
 
 h4 {
-  font-family: 'freight-sans-pro';
+  font-family: 'Freight Sans';
+  font-style: normal;
   line-height: 27px;
   font-weight: 500;
   font-size: 20px;
@@ -40,7 +44,8 @@ h4 {
 }
 
 h5 {
-  font-family: 'freight-sans-pro';
+  font-family: 'Freight Sans';
+  font-style: normal;
   line-height: 27px;
   font-weight: 400;
   font-size: 20px;
