@@ -1,6 +1,6 @@
 {
   "name": "@segment/typography",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Segment typography kit",
   "main": "index.css",
   "repository": {
