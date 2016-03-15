@@ -57,10 +57,10 @@ h5[data-color="gray"] {
 }
 
 h6 {
-  font-family: 'Freight Sans';
+  font-family: 'Freight Sans Small Caps';
   font-style: normal;
-  line-height: 27px;
+  line-height: 24px;
   font-weight: 400;
   font-size: 18px;
-  color: #54585E;
+  color: #707479;
 }
