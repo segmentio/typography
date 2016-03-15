@@ -55,3 +55,12 @@ h5 {
 h5[data-color="gray"] {
   color: #707479;
 }
+
+h6 {
+  font-family: 'Freight Sans Small Caps';
+  font-style: normal;
+  line-height: 24px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #707479;
+}
