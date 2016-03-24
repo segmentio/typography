@@ -1,4 +1,11 @@
 
+0.0.5 / 2016-03-24
+==================
+
+  * Merge pull request #5 from segmentio/update/headings
+  * tweaks
+  * use new headings from style guide
+
 0.0.4 / 2016-03-16
 ==================
 
