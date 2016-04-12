@@ -1,4 +1,13 @@
 
+1.0.0 / 2016-04-12
+=================
+
+  * add `.npmignore`
+  * fix /dev/null hack
+  * add `Makefile` and `circle.yml`
+  * package: remove "scripts"
+  * covert to webpack
+
 0.0.5 / 2016-03-24
 ==================
 
