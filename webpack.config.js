@@ -6,7 +6,7 @@ module.exports = {
   entry: './index.css',
 
   // dead output
-  output: { filename: '/dev/null' },
+  output: { filename: 'bundle.js' },
   // actual output
   plugins: [
     new ExtractTextPlugin('bundle.css')
