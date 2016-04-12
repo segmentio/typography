@@ -2,9 +2,16 @@
   "name": "@segment/typography",
   "version": "0.0.5",
   "description": "The Segment typography kit",
-  "main": "index.css",
+  "main": "bundle.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/segmentio/typography.git"
+    "url": "git+https://github.com/segmentio/typography.git"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.14"
   }
 }
