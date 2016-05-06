@@ -28,6 +28,7 @@ h3 {
   font-weight: 400;
   font-size: 27px;
   color: #54585E;
+  -webkit-font-smoothing: antialiased;
 }
 
 h3[data-color="gray"] {
