@@ -1,7 +1,7 @@
 
 # typography
 
-Our typography.  Defines our default heading styles and font sets.
+Our fonts.
 
 ## Installation
 
